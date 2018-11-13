@@ -1,7 +1,7 @@
 {
   "name": "ToDo-app",
   "version": "0.0.1",
-  "author": "ald",
+  "author": "alda",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
